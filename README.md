@@ -1,1 +1,1 @@
-# hackattic_challenges
+# [Hackattic Challenges](https://hackattic.com/)
